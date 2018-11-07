@@ -29,7 +29,4 @@ export class InfoPaginaService {
         console.log(resp);
       });
   }
-
-  private cargarEquipo() {
-  }
 }

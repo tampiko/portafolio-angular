@@ -3609,3 +3609,10 @@
     transition: none !important;
   }
 }
+
+/* SVG Loading */
+
+svg path,
+svg rect {
+  fill: black;
+}
